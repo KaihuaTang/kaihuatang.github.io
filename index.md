@@ -11,11 +11,21 @@ My research mainly focuses on learning unbiased models against the distribution 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2022]** We are organizing the <a href="http://www.causalityinvision.com" target="_blank">2st Causality in Vision Workshop</a> at ECCV 2022.
+- **[Jul. 2022]** I was recognized as an <a href="https://icml.cc/Conferences/2022/Reviewers" target="_blank">outstanding reviewer (Top 10%)</a> for ICML 2022.
+- **[Jul. 2022]** Three Papers (One Oral) were accepted to ECCV 2022.
+- **[Dec. 2021]** I successfully defended my Ph.D. thesis. I'd like to thank everyone who has helped me in the past 3 years.
+- **[May. 2021]** I received the Silver Award in <a href="http://www.premiasg.org/for-members/premia-best-student-paper-awards/premia-best-student-paper-awards-2021/" target="_blank">2021 PREMIA Best Student Paper Award</a>.
+- **[Mar. 2021]** I'm honored to be selected as one of the <a href="https://azft.alibaba.com/newspage/?id=170" target="_blank">2021 Alibaba Outstanding Interns in Academic Cooperation</a>.
+- **[Mar. 2021]** We organized the <a href="http://www.causalityinvision.com/civ2021.html" target="_blank">1st Causality in Vision Workshop</a> at CVPR 2021.
+- **[Jan. 2021]** Two Papers were accepted to CVPR 2021.
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/projects.md %}
+
+{% include_relative _includes/experience.md %}
