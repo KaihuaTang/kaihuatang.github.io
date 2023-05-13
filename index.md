@@ -10,7 +10,6 @@ Recently, I joined Huawei Singapore Research Center. Before that I was a Postdoc
 
 
 ## News
-- **[Mar. 2023]** I'm joining Huawei Singapore Research Center as a Senior Engineer.
 - **[Jul. 2022]** We are organizing the <a href="http://www.causalityinvision.com" target="_blank">2st Causality in Vision Workshop</a> at ECCV 2022.
 - **[Jul. 2022]** I was recognized as an <a href="https://icml.cc/Conferences/2022/Reviewers" target="_blank">outstanding reviewer (Top 10%)</a> for ICML 2022.
 - **[Jul. 2022]** Three Papers (One Oral) were accepted to ECCV 2022.
