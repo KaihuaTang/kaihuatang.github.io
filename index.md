@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I obtained my Ph.D. at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a> in 2022, advised by <a href="https://personal.ntu.edu.sg/hanwangzhang/" target="_blank">Prof. Hanwang Zhang</a> . I received B.E. degree in Computer Science from <a href="http://english.seiee.sjtu.edu.cn/english/info/8338.htm" target="_blank">IEEE Pilot Class</a> at <a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University (SJTU)</a> in 2015, and dual-master degree in Computer Science from the joint programme of <a href="https://en.sjtu.edu.cn/" target="_blank">SJTU</a> and <a href="https://www.waseda.jp/fsci/gips/en/" target="_blank">Waseda University</a> in 2018, advised by <a href="http://www.waseda.jp/sem-kamlabo011/" target="_blank">Prof. Seiichiro Kamata</a> and <a href="https://dmcv.sjtu.edu.cn/" target="_blank">Prof. Lizhuang Ma</a>.
+I'm now an algorithm engineer at Huawei Singapore Research Center. 
 
-Recently, I joined Huawei Singapore Research Center. Before that I was a Postdoctoral Researcher at <a href="https://mreallab.github.io/" target="_blank">MReaL Lab</a>, <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a> from 2022 to 2023, working with <a href="https://personal.ntu.edu.sg/hanwangzhang/" target="_blank">Prof. Hanwang Zhang</a>. 
+I obtained my Ph.D. degree from School of Computer Science and Engineering at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a> in 2022, advised by Prof. Hanwang Zhang. I received B.E. degree in Computer Science from <a href="http://english.seiee.sjtu.edu.cn/english/info/8338.htm" target="_blank">IEEE Pilot Class</a> at <a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University (SJTU)</a> in 2015, and dual-master degree in Computer Science from the joint programme of <a href="https://en.sjtu.edu.cn/" target="_blank">SJTU</a> and <a href="https://www.waseda.jp/fsci/gips/en/" target="_blank">Waseda University</a> in 2018.
 
 
 ## News
