@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm now an algorithm engineer at Huawei Singapore Research Center. 
+I'm now an algorithm engineer at Huawei Singapore Research Center working with Dr. Michael Bi Mi and Dr. Xin Wang. 
 
 I obtained my Ph.D. degree from School of Computer Science and Engineering at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a> in 2022, advised by Prof. Hanwang Zhang. I received B.E. degree in Computer Science from <a href="http://english.seiee.sjtu.edu.cn/english/info/8338.htm" target="_blank">IEEE Pilot Class</a> at <a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University (SJTU)</a> in 2015, and dual-master degree in Computer Science from the joint programme of <a href="https://en.sjtu.edu.cn/" target="_blank">SJTU</a> and <a href="https://www.waseda.jp/fsci/gips/en/" target="_blank">Waseda University</a> in 2018.
 
