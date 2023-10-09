@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I'm now an algorithm engineer at Huawei Singapore Research Center working with Dr. Michael Bi Mi and Dr. Xin Wang. 
+I'm now an algorithm engineer at Huawei Singapore Research Center (SRC). My current work is to develop On-device AI algorithms, including on-device LLM and other conventional on-device computer vision algorithms. **My lifelong dream is to empower video games with more intelligence in the gameplay**.
 
-I obtained my Ph.D. degree from School of Computer Science and Engineering at <a href="https://www.ntu.edu.sg/" target="_blank">Nanyang Technological University</a> in 2022, advised by Prof. Hanwang Zhang. I received B.E. degree in Computer Science from <a href="http://english.seiee.sjtu.edu.cn/english/info/8338.htm" target="_blank">IEEE Pilot Class</a> at <a href="https://en.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University (SJTU)</a> in 2015, and dual-master degree in Computer Science from the joint programme of <a href="https://en.sjtu.edu.cn/" target="_blank">SJTU</a> and <a href="https://www.waseda.jp/fsci/gips/en/" target="_blank">Waseda University</a> in 2018.
-
+Before joining the SRC, I was a Post-doctoral Researcher at Nanyang Technological University in 2022. I received my Ph.D. degree from the School of Computer Science and Engineering at Nanyang Technological University in 2021, dual-master degrees in Computer Science from the joint programme of Shanghai Jiao Tong University and Waseda University in 2018, and B.E. degree in Computer Science from the IEEE Pilot Class at Shanghai Jiao Tong University (SJTU) in 2015.
 
 ## News
+- **[Sep. 2023]** One Paper was accepted to NeurIPS 2023.
 - **[Jul. 2022]** We are organizing the <a href="http://www.causalityinvision.com" target="_blank">2st Causality in Vision Workshop</a> at ECCV 2022.
 - **[Jul. 2022]** I was recognized as an <a href="https://icml.cc/Conferences/2022/Reviewers" target="_blank">outstanding reviewer (Top 10%)</a> for ICML 2022.
 - **[Jul. 2022]** Three Papers (One Oral) were accepted to ECCV 2022.
