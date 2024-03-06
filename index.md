@@ -9,6 +9,8 @@ I'm now an algorithm engineer at Huawei Singapore Research Center (SRC). My curr
 Before joining the SRC, I was a Post-doctoral Researcher at Nanyang Technological University in 2022. I received my Ph.D. degree from the School of Computer Science and Engineering at Nanyang Technological University in 2021, dual-master degrees in Computer Science from the joint programme of Shanghai Jiao Tong University and Waseda University in 2018, and B.E. degree in Computer Science from the IEEE Pilot Class at Shanghai Jiao Tong University (SJTU) in 2015.
 
 ## News
+- **[Mar. 2024]** I received the Outstanding New Employee Award 2023 & Future Star Award 2023 of SRC.
+- **[Oct. 2023]** Our developed on-device LLM was released at the China Mobile Global Partners Conference 2023.
 - **[Sep. 2023]** One Paper was accepted to NeurIPS 2023.
 - **[Jul. 2022]** We are organizing the <a href="http://www.causalityinvision.com" target="_blank">2st Causality in Vision Workshop</a> at ECCV 2022.
 - **[Jul. 2022]** I was recognized as an <a href="https://icml.cc/Conferences/2022/Reviewers" target="_blank">outstanding reviewer (Top 10%)</a> for ICML 2022.
