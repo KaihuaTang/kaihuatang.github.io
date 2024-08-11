@@ -1,9 +1,8 @@
 # Basic Information 
 title: Kaihua Tang
-titlecn: 汤凯华
-#position: Senior Engineer
-affiliation: Huawei Singapore Research Center 
-email: tkhchipaomian (at) gmail.com
+position: Senior Algorithm Engineer
+my_logo: ./assets/img/logo_my.png
+email: tkhchipaomian (at) gmail (dot) com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -28,6 +27,8 @@ favicon_dark: ./assets/img/icon_ailurus.png
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
+
+enable_last_update: true
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

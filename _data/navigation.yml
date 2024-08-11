@@ -1,0 +1,11 @@
+main:
+
+  - title: "Donate"
+    url: ./donate.html
+    right: true 
+
+  - title: "Supporters"
+    url: ./supporters.html
+    
+  - title: "About"
+    url: ./index.html
