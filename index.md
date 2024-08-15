@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a full-time senoir algorithm engineer and a spare-time open-sourcerer. My current work mainly includes on-device LLM deployment and inference speedup. I have also worked on computer vision research and mobile game development. **My lifelong dream is to empower video games with more intelligence in the gameplay**.
+I'm a full-time senoir algorithm engineer and a spare-time open-sourcerer. My current work mainly includes on-device LLM deployment and inference speedup. I also have experience in computer vision research and game development. **My lifelong dream is to empower video games with more intelligence in the gameplay**.
 
 I received my Ph.D. degree from the School of Computer Science and Engineering at Nanyang Technological University in 2021, dual-master degrees in Computer Science from the joint programme of Shanghai Jiao Tong University and Waseda University in 2018, and B.E. degree in Computer Science from the IEEE Pilot Class at Shanghai Jiao Tong University (SJTU) in 2015.
 
