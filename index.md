@@ -9,7 +9,7 @@ I'm a full-time senoir algorithm engineer and a spare-time open-sourcerer. My cu
 I received my Ph.D. degree from the School of Computer Science and Engineering at Nanyang Technological University in 2021, dual-master degrees in Computer Science from the joint programme of Shanghai Jiao Tong University and Waseda University in 2018, and B.E. degree in Computer Science from the IEEE Pilot Class at Shanghai Jiao Tong University (SJTU) in 2015.
 
 ## News
-- **[Seq. 2024]** I was selected as one of [the world's top 2% scientists (7566 out of 399064 in AI)](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua).
+- **[Seq. 2024]** I was selected as one of [the world's top 2% scientists (7566 out of 399064 in Artificial Intelligence)](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua).
 - **[Mar. 2024]** I received the Outstanding New Employee Award 2023 & Future Star Award 2023 of SRC.
 - **[Oct. 2023]** Our developed on-device LLM was released at the China Mobile Global Partners Conference 2023.
 - **[Sep. 2023]** One Paper was accepted to NeurIPS 2023.
