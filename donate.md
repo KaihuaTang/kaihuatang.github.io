@@ -4,13 +4,7 @@ layout: homepage
 
 ## Donate ❤️
 
-I love open source and the sense of accomplishment that open source gives me.
-
-Since joining a tech company as a full-time employee, I've noticed that most closed-source projects within companies often lack vitality and creativity, sometimes even directly inheriting from open-source work. This realization has made me more aware that open-source is a greater catalyst for technological advancement and creativity. Therefore, I’ve decided to continue contributing to open-source projects in my spare time, just as I did during my PhD. I hope my work can be of help to you.
-
-**If my open source projects have inspired you, giving me some sponsorship will be a great help to my subsequent open source work.**
-
-**Thank you for your support! 🙌**
+I will occasionally develop and open-source some tools that I find useful, or projects that I find interesting. If you would like to sponsor my work, you can use the following links.
 
 
 ## Monthly Donations
