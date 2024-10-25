@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a full-time senoir algorithm engineer and researcher. My current work mainly includes on-device LLM & VLM development and inference speedup. I am also keen on creating interesting applications using AIGC. Before I joined the industry, I worked on computer vision research during my PhD (I was selected as one of the world’s [top 2% research scientists](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua).) and mobile game development during internship. **My lifelong dream is to witness and participate in advancing more intelligent gaming and companionship experiences.**
+I'm a full-time senoir algorithm engineer and researcher. My current work mainly includes on-device LLM & VLM development and accelerating. I am also keen on creating interesting applications using AIGC. Before I joined the industry, I worked on computer vision research during my PhD (I was selected as one of the world’s [top 2% research scientists](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua).) and mobile game development during internship. **My lifelong dream is to witness and participate in advancing more intelligent gaming and companionship experiences.**
 
 I received my Ph.D. degree from the School of Computer Science and Engineering at Nanyang Technological University in 2021, dual-master degrees in Computer Science from the joint programme of Shanghai Jiao Tong University and Waseda University in 2018, and B.E. degree in Computer Science from the IEEE Pilot Class at Shanghai Jiao Tong University (SJTU) in 2015.
 
