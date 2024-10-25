@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Thanks! 🙌
-I’m truly grateful to all the wonderful humans and companies supporting my open source work. 
+Thank you very much for supporting my work.
 
 ## Supporter 
 - [Catchip](https://github.com/Catchip)
