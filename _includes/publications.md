@@ -9,6 +9,34 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/paper_2023_neurips.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/cbe1fd3136e0f049bb8bc104231ccb99-Paper-Conference.pdf" target="_blank">Generalized logit adjustment: Calibrating fine-tuned models by removing label bias in foundation models</a></div>
+    <div class="author">Beier Zhu, <strong>Kaihua Tang</strong>, Qianru Sun, Hanwang Zhang</div>
+    <div class="periodical"><em>Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/cbe1fd3136e0f049bb8bc104231ccb99-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/BeierZhu/GLA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!--
+      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+       -->
+    </div>
+  </div>
+  
+</div>
+</li>
+  
+<br>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/paper_2022_eccv_inv.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ECCV</abbr>
   </div>
