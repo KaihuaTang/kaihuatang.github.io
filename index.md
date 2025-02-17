@@ -9,7 +9,7 @@ I'm a senoir algorithm engineer (applied scientist) since 2023. My current work 
 - **[Jan. 2025]** I received the Huawei Quality Star Award based on my Vision-Language Model accelerating project.
 - **[Seq. 2024]** I was selected as one of [the world's top 2% scientists (7566 out of 399064 in Artificial Intelligence)](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua).
 - **[Mar. 2024]** I received the Huawei Outstanding New Employee Award 2023 & Future Star Award 2023.
-- **[Oct. 2023]** Our developed on-device LLM for smart home terminals was released at the China Mobile Global Partners Conference 2023.
+- **[Oct. 2023]** Our developed on-device LLM for smart home terminals was released at the [China Mobile Global Partners Conference 2023](https://www.10086.cn/aboutus/news/groupnews/index_detail_47413.html).
 - **[Sep. 2023]** One Paper was accepted to NeurIPS 2023.
 - **[Jul. 2022]** We are organizing the <a href="http://www.causalityinvision.com" target="_blank">2st Causality in Vision Workshop</a> at ECCV 2022.
 - **[Jul. 2022]** I was recognized as an <a href="https://icml.cc/Conferences/2022/Reviewers" target="_blank">outstanding reviewer (Top 10%)</a> for ICML 2022.
