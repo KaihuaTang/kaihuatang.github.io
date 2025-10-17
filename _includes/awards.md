@@ -1,5 +1,7 @@
 ## Awards
 <ul style="margin:0 0 5px;">
+  <li>Top Reviewer, NeurIPS, 2025</li>
+  <li>Stanford/Elsevier's World Top 2% Scientists, 2025 & 2024</li>
   <li>Outstanding Reviewer (Top 10%), ICML, 2022</li>
   <li>2021 Alibaba Outstanding Interns in Academic Cooperation, Alibaba Group, 2021</li>
   <li>2021 & 2019 PREMIA Best Student Paper Award, 2nd Place, PREMIA, 2021 & 2019</li>
