@@ -39,9 +39,9 @@
 <h4 style="margin:0 10px 0;">Paper Review</h4>
 
 <ul style="margin:0 0 20px;">
-  <div>CVPR, ECCV, ICCV, WACV, NeurIPS, ICLR, ICML, AAAI, TPAMI</div>
-  <div>NeurIPS 2025, Top Reviewer</div>
-  <div>ICML 2022, Outstanding Reviewer</div>
+  <div>Summary: CVPR, ECCV, ICCV, WACV, NeurIPS, ICLR, ICML, AAAI, TPAMI, etc.</div>
+  <div>Award: NeurIPS 2025, Top Reviewer</div>
+  <div>Award: ICML 2022, Outstanding Reviewer (Top 10%)</div>
 </ul>
 
 <br>
