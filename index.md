@@ -6,6 +6,8 @@ layout: homepage
 I received my Ph.D. degree from the School of Computer Science and Engineering at Nanyang Technological University in 2021, advised by [Prof. Hanwang Zhang](https://personal.ntu.edu.sg/hanwangzhang/). During my Ph.D., I worked on computer vision, especially vision language tasks and distribution bias problem. I'm also honored to be selected as one of the world’s [top 2% scientists](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua) based on these research. Prior to the Ph.D. study, I obtained my dual-master degrees in Computer Science from the joint programme of Shanghai Jiao Tong University, advised by [Prof. Lizhuang Ma](https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=154) and Waseda University, advised by [Prof. Sei-Ichiro Kamata](https://www.waseda.jp/fsci/gips/other-en/2015/09/08/2167/).  My B.E. degree is received in Computer Science from the IEEE Pilot Class at Shanghai Jiao Tong University (SJTU) in 2015.
 
 ## News
+- **[Mar. 2026]** Two Papers were accepted to CVPR 2026.
+- **[Feb. 2026]** I have joined the Institute of AI for Engineering, Tongji University.
 - **[Oct. 2025]** I was selected as a Top Reviewer for NeurIPS 2025.
 - **[Seq. 2025]** I was selected as one of [the 2024 & 2025 world's top 2% scientists (in Artificial Intelligence SubField)](https://topresearcherslist.com/Home/Search?AuthFull=tang%2C+kaihua).
 - **[Oct. 2023]** Our developed on-device LLM for smart home terminals was released at the [China Mobile Global Partners Conference 2023](https://www.10086.cn/aboutus/news/groupnews/index_detail_47413.html).
