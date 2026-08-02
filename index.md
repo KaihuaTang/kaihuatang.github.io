@@ -4,9 +4,9 @@ layout: homepage
 
 ## Our Vision
 
-My research interests lie in addressing the challenges of open-ended real-world tasks for MLLMs, including creativity, divergent thinking, proactive exploration, and bias mitigation, etc. I am particularly interested in exploring AI applications in creative tasks, AI-assisted game design, emerging commercial applications of AI agents, and open-world exploration capabilities of embodied intelligence. <span style="color: #e74c3c; font-weight: bold;">My vision is to use AI to push beyond the boundaries of human knowledge and capabilities. To create, not replace.</span>
+My research interests lie in addressing the challenges of open-ended real-world tasks for MLLMs, including open-world generalization, bias mitigation, creativity, divergent thinking, and proactive exploration, etc. I am particularly interested in AI applications for creative tasks, AI-assisted game design, emerging commercial applications of AI agents, and the open-world exploration capabilities of embodied intelligence. <span style="color: #e74c3c; font-weight: bold;">My vision is to use AI to push beyond the boundaries of human knowledge and capabilities. To create, not replace.</span>
 
-我的研究兴趣主要集中于探索多模态大模型在开放式真实世界任务中面临的关键挑战，包括创造力、发散性思维、主动探索能力以及偏差缓解/长尾等问题。我尤其关注人工智能在创意任务、辅助游戏设计、基于智能体的新兴商业应用，以及具身智能的开放世界探索能力等领域的应用。<span style="color: #e74c3c; font-weight: bold;">我的愿景是用AI突破人类知识与能力的边界，去创造而非替代。</span>
+我的研究兴趣主要集中于探索多模态大模型在开放式真实世界任务中面临的关键挑战，包括开放场景泛化性、偏差缓解/长尾问题、创造力、发散性思维、主动探索能力等问题。我尤其关注人工智能在知识探索、创意任务、辅助游戏设计、基于智能体的新兴商业应用，以及具身智能的开放世界探索能力等领域的应用。<span style="color: #e74c3c; font-weight: bold;">我的愿景是用AI突破人类知识与能力的边界，去创造而非替代。</span>
 
 ## About Me
 
