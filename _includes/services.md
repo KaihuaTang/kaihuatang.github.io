@@ -16,5 +16,3 @@
   <div>Summary: CVPR, ECCV, ICCV, WACV, NeurIPS, ICLR, ICML, AAAI, TPAMI, etc.</div>
   <div>Award: NeurIPS / ICML, Top Reviewer / Outstanding Reviewer</div>
 </ul>
-
-<br>
