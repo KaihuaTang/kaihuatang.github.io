@@ -80,7 +80,7 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <a href="{{ site.affiliation_link }}" target="_blank" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
@@ -108,6 +108,12 @@
         </a>
         {% endif %}
 
+        {% if site.fun_projects %}
+        <a style="margin: 0 5px 0 0" href="{{ site.fun_projects }}" target="_blank" title="Fun Projects & Games 趣味项目">
+          <i class="fas fa-gamepad"></i>
+        </a>
+        {% endif %}
+
         {% if site.linkedin %}
         <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" target="_blank">
           <i class="fab fa-linkedin"></i>
@@ -130,7 +136,7 @@
       <br>
 
       <p align="center"><br>
-        <a href='https://clustrmaps.com/site/1an2z' title='Visit tracker'><img
+        <a href='https://clustrmaps.com/site/1an2z' title='Visit tracker' target="_blank"><img
             src='//clustrmaps.com/map_v2.png?cl=ffffff&w=250&t=tt&d=jtVx5gGD4Jpkn2bxejPg0-3tz8nkFVX5xQdTG-UF-y8&co=6cb3e6&ct=ffffff' /></a>
       </p>
 
@@ -145,6 +151,15 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      // Open all external links in a new tab
+      document.querySelectorAll('a[href^="http"]').forEach(function (a) {
+        if (a.hostname !== location.hostname && !a.target) {
+          a.target = '_blank';
+          a.rel = 'noopener';
+        }
+      });
+    </script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -1,5 +1,23 @@
 ## Experience
 
+<h4 style="margin:0 10px 0;">Huawei Singapore Research Center, Senior Researcher (2023.3 - 2026.1)</h4>
+
+<ul style="margin:0 0 5px;">
+  Major topic: AI Infra (VLM/LLM NPU Deployment and Acceleration, VLA Acceleration, HiFloat4 Design and Evaluation)
+  <br>
+  Mentor: Hanwang Zhang
+</ul>
+
+
+<h4 style="margin:0 10px 0;">Nangyang Technological Univerisity, MReaL Lab, PostDoctoral (2022.2 - 2023.2)</h4>
+
+<ul style="margin:0 0 5px;">
+  Major topic: Multimodal Artificial Intelligence
+  <br>
+  Mentor: Hanwang Zhang
+</ul>
+
+
 <h4 style="margin:0 10px 0;">Alibaba, DAMO Academy, Research Intern (2019.7 - 2021.11)</h4>
 
 <ul style="margin:0 0 5px;">
@@ -36,24 +54,10 @@
 </ul>
 
 
-<h4 style="margin:0 10px 0;"><a href="https://speechlab.sjtu.edu.cn/node/7">Speech Lab</a> Intern, SJTU (2014.3 - 2014.9)</h4>
+<h4 style="margin:0 10px 0;"><a href="https://speechlab.sjtu.edu.cn/node/7" target="_blank">Speech Lab</a> Intern, SJTU (2014.3 - 2014.9)</h4>
 
 <ul style="margin:0 0 5px;">
   Major Project: Leading a team to develop an Android App for unlocking the screen by Voice Recognition.
   <br>
   Mentor: Kai Yu
-</ul>
-
-
-<h4 style="margin:0 10px 0;">28th ACM-MM Volunteer, Seattle, USA (2020.10)</h4>
-
-<ul style="margin:0 0 5px;">
-  Received Volunteer Appreciation Certification in the 2020 ACM Multimedia for joining the organization of online presentation.
-</ul>
-
-
-<h4 style="margin:0 10px 0;">YAPM Summer Volunteer, Yunnan Province, China (2014.7 - 2014.8)</h4>
-
-<ul style="margin:0 0 5px;">
-  Youth Ambassador Program for Minorities (TECC Organization) is determined to help the youth generation of minorities in remote area of China to inherit and protect their cultures.
 </ul>
