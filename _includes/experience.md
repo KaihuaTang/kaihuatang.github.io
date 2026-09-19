@@ -69,9 +69,9 @@
 <h4 style="margin:0 10px 0;"><a href="https://speechlab.sjtu.edu.cn/node/7" target="_blank">Speech Lab</a> Intern, SJTU (2014.3 - 2014.9)</h4>
 
 <ul style="margin:0 0 5px;">
-  Major Project: Leading a team to develop an Android App for unlocking the screen by Voice Recognition.
+  Major Project: Leading a team to develop an mobile App for unlocking the screen by Voice Recognition.
   <br>
   Mentor: Kai Yu
   <br>
-  在上海交通大学 Speech Lab 实习，带领团队开发了通过语音识别解锁屏幕的 Android 应用。
+  在上海交通大学 Speech Lab 实习，开发通过语音识别解锁屏幕的手机APP。
 </ul>
