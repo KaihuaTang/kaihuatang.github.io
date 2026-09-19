@@ -53,25 +53,3 @@
   <br>
   在米哈游担任软件工程师实习生，使用 Unity 3D 进行手机游戏开发。
 </ul>
-
-
-<h4 style="margin:0 10px 0;">Toshiba, Research & Development Intern (2015.8 - 2015.9)</h4>
-
-<ul style="margin:0 0 5px;">
-  Major Project: Scenery Image Stitching and Inpainting.
-  <br>
-  Mentor: Kaoru Matsuoka
-  <br>
-  在东芝担任研发实习生，参与风景图像拼接与修复项目。
-</ul>
-
-
-<h4 style="margin:0 10px 0;"><a href="https://speechlab.sjtu.edu.cn/node/7" target="_blank">Speech Lab</a> Intern, SJTU (2014.3 - 2014.9)</h4>
-
-<ul style="margin:0 0 5px;">
-  Major Project: Leading a team to develop an mobile App for unlocking the screen by Voice Recognition.
-  <br>
-  Mentor: Kai Yu
-  <br>
-  在上海交通大学 Speech Lab 实习，开发通过语音识别解锁屏幕的手机APP。
-</ul>
