@@ -32,8 +32,6 @@ I’ll share some interesting independent projects and games on the following we
 - **[Mar. 2021]** We organized the <a href="http://www.causalityinvision.com/civ2021.html" target="_blank">1st Causality in Vision Workshop</a> at CVPR 2021.
 - **[Jan. 2021]** Two Papers were accepted to CVPR 2021.
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/awards.md %}
 
 {% include_relative _includes/services.md %}
